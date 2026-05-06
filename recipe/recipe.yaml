@@ -1,5 +1,5 @@
 context:
-  version: "8.1.1"
+  version: "8.1.2"
 
 package:
   name: hexo
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/hexo/-/hexo-${{ version }}.tgz
-  sha256: c414b9b5e70643c0488dcef4e9440662c36f8b5a67ed399f09a0e4feba1c173c
+  sha256: 3ba063de1fb6ecfe5ec79d1f9ac3e886deb2f7c3f0b93fd063b8e1ef11ff97d2
 
 build:
   number: 0
